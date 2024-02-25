@@ -66,9 +66,9 @@ const Footer = () => {
             </div>
         </div>
         <div className='flex items-center justify-end mr-10'>
-            {/* <p className='text-white'>All rights reserved</p> */}
-            <p className='text-white pr-96 mr-20'>Made with Love By Vinyasa 2024</p>
-            <p className='text-white'>Phone : 8239267827 <br /> 1DT21CG049@dsatm.edu.in</p>
+            {/*<p className='text-white'>All rights reserved</p>*/}
+            <p className='text-white pr-96 mr-20'>© Vinyasa 2024</p>
+            <p className='text-white'>Phone : +918239267827 <br /> 1DT21CG049@dsatm.edu.in</p>
         </div>
       
     </div>
