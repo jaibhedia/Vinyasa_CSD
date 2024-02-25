@@ -169,14 +169,14 @@ const Team = () => {
             style={{ backgroundImage: `url(/praveen.jpg)` }}
           >
             <h1 className="text-2xl font-bold">G Praveen</h1>
-            <p className='font-semibold'>AIML</p>
+            <p className='font-semibold'>AI-ML</p>
           </div>
 
           <div
             className="flip-card-back w-[100%] h-[100%] bg-cover border-[1px] text-white rounded-lg  bg-gradient-to-r from-yellow-500 to-black p-4"
             // style={{ backgroundImage: `url(/praveen.jpg)` }}
           >
-           <h1 className="text-2xl font-bold text-white flex items-center justify-center pt-5">AIML</h1>
+           <h1 className="text-2xl font-bold text-white flex items-center justify-center pt-5">AI-ML</h1>
           <p className='flex items-center justify-center pt-12 text-xl text-white font-semibold'>  Where algorithms meet intuition, creating intelligent systems that learn, adapt, and redefine the future.</p>
           </div>
         </motion.div>
@@ -198,7 +198,7 @@ const Team = () => {
             style={{ backgroundImage: `url(/Mudit-img-removebg-preview.png)` }}
           >
             <h1 className="text-2xl font-bold text-black">Mudit</h1>
-            <p className='font-semibold text-black'>Web Development</p>
+            <p className='font-semibold text-white'>Web Development</p>
           </div>
 
           <div
@@ -297,8 +297,8 @@ const Team = () => {
             className="flip-card-front w-[100%] h-[100%] bg-cover border-[1px] text-white rounded-lg p-4"
             style={{ backgroundImage: `url(/Kushal.jpg)` }}
           >
-            <h1 className="text-2xl text-black font-bold">Kushal</h1>
-            <p className='font-semibold text-black'>Blockchain</p>
+            <h1 className="text-2xl text-white font-bold">Kushal</h1>
+            <p className='font-semibold text-white'>Blockchain</p>
           </div>
 
           <div
