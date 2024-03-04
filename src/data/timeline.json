@@ -1,11 +1,7 @@
 [
     {
-      "date": "",
-      "event": "Mentor Registration Begins"
-    },
-    {
-      "date": "",
-      "event": "Student Registration Begins"
+      "date": "To Be Announced",
+      "event": "VSOC"
     },
     {
       "date": "",
@@ -14,22 +10,26 @@
     {
       "date": "",
       "event": ""
-    },
-    {
-      "date": "",
-      "event": "Mid Evaluations"
-    },
-    {
-      "date": "",
-      "event": "End Evaluations"
-    },
-    {
-      "date": "",
-      "event": "Report Submission Deadline"
     },
     {
       "date": "To Be Announced",
-      "event": "VSOC"
+      "event": "Hack Hephaestus"
+    },
+    {
+      "date": "",
+      "event": ""
+    },
+    {
+      "date": "",
+      "event": ""
+    },
+    {
+      "date": "To Be Announced",
+      "event": "Hack this Summer: Tech Fest"
+    },
+    {
+      "date": "",
+      "event": ""
     }
   ]
   
